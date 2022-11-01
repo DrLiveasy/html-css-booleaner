@@ -18,10 +18,16 @@ body {
 .testomargine {
     margin-left: 6px;
 }
-#margintop {
+#margintop20 {
     margin-top: -20px;
 }
 #thebooleaner {
     margin-top: -40px;
     margin-left: 85px;
+}
+#margintop10 {
+    margin-top: -10px;
+}
+#margintop4 {
+    margin-top: -4px;
 }
