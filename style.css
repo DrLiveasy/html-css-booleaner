@@ -1,7 +1,9 @@
 body {
     margin: auto;
+    width: 80%;
 }
 .sfondoheader {
+    margin: auto;
     background-image: url("./img/pattern.png");
     background-color: rgb(0, 153, 255);
     background-size: 400px;
@@ -12,4 +14,14 @@ body {
     margin-left: 10px;
     margin-bottom: 5px;
     width: 180px;
+}
+.testomargine {
+    margin-left: 6px;
+}
+#margintop {
+    margin-top: -20px;
+}
+#thebooleaner {
+    margin-top: -40px;
+    margin-left: 85px;
 }
