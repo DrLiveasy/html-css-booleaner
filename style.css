@@ -41,5 +41,15 @@ body {
 table, th, td {
     border: none;
     border-collapse: collapse;
-    
+
+  }
+ #graph-monitor {
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
   }
